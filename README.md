@@ -1,4 +1,6 @@
-![MasterHead](https://i.ibb.co/K2CnDMr/White-Minimalist-Data-Analyst-Linked-In-Background-Photo-2.png)
+<p align="center">
+  <img src="https://i.ibb.co/K2CnDMr/White-Minimalist-Data-Analyst-Linked-In-Background-Photo-2.png" alt="MasterHead" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Waleed Ilyas</h1>
 <h3 align="center">A passionate Data Analyst and Visualization enthusiast from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
