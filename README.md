@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEXZiGXNHGgVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725887088180?e=1731542400&v=beta&t=iLWt02HmgyMSQq9zUgDxESfK4KgBf7QpTGh7XKeu8dQ)
+![MasterHead](https://i.ibb.co/K2CnDMr/White-Minimalist-Data-Analyst-Linked-In-Background-Photo-2.png)
 <h1 align="center">Hi 👋, I'm Waleed Ilyas</h1>
 <h3 align="center">A passionate Data Analyst and Visualization enthusiast from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
