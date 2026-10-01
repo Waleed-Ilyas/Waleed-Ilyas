@@ -1,13 +1,13 @@
 # Waleed Ilyas
 
-Full Stack Engineer • MERN • Next.js • Solana
+Full Stack Engineer Â· MERN Â· Next.js Â· Solana
 
-I build dependable web products and Solana experiences that feel polished, product-minded, and easy to trust.
+I build dependable web products and Solana experiences with a strong focus on product clarity, reliability, and a clean execution path from API to UI.
 
-- 3+ years delivering full-stack features across React, Node.js, Express, MongoDB, and Next.js
-- Comfortable shipping APIs, database design, UI flows, auth, payments, and deployment-ready product work
-- Experienced with Solana devnet flows, wallet UX, token logic, and transaction-aware interfaces
-- Focused on clarity, performance, and engineering quality without over-engineering the stack
+- 3+ years building full-stack features across React, Next.js, Node.js, Express, MongoDB, and PostgreSQL
+- Comfortable shipping schema design, REST APIs, authentication flows, payments, dashboards, and production-facing UI
+- Experienced with Solana devnet workflows, wallet UX, transaction-aware interfaces, and token logic
+- Focused on practical engineering quality: clear architecture, solid performance, and maintainable delivery
 
 ## Tech stack
 
@@ -22,20 +22,20 @@ I build dependable web products and Solana experiences that feel polished, produ
 
 ## Featured projects
 
-These are the six strongest repos to pin for a recruiter-facing GitHub profile:
+These are the six strongest portfolio repos to highlight for recruiters and hiring teams:
 
-1. [SolScope](https://github.com/Waleed-Ilyas/solscope) — Solana wallet analytics dashboard with portfolio insights and decoded activity
-2. [Forma3D](https://github.com/Waleed-Ilyas/forma3d) — 3D configurator with live pricing, shareable URLs, and polished UI interaction
-3. [TokenForge](https://github.com/Waleed-Ilyas/tokenforge) — devnet token launcher for SPL and Token-2022 flows
-4. [NexaCart](https://github.com/Waleed-Ilyas/nexacart) — e-commerce app with Stripe test checkout, catalog logic, and admin tooling
-5. [TaskForge](https://github.com/Waleed-Ilyas/taskforge) — real-time team kanban with comments, activity tracking, and board workflows
-6. [SolPay](https://github.com/Waleed-Ilyas/solpay) — merchant payment flow with checkout UX and payment verification patterns
+1. [SolScope](https://github.com/Waleed-Ilyas/solscope) â€” Solana wallet analytics dashboard with decoded activity, portfolio insights, and an interface built for quick signal discovery
+2. [Forma3D](https://github.com/Waleed-Ilyas/forma3d) â€” 3D product configurator with live pricing, shareable URLs, and polished interaction design
+3. [TokenForge](https://github.com/Waleed-Ilyas/tokenforge) â€” devnet token launcher for SPL and Token-2022 workflows with metadata-aware tooling
+4. [NexaCart](https://github.com/Waleed-Ilyas/nexacart) â€” e-commerce app with Stripe test checkout, catalog logic, and admin dashboard patterns
+5. [TaskForge](https://github.com/Waleed-Ilyas/taskforge) â€” real-time team kanban with comments, activity tracking, and workflow coordination
+6. [SolPay](https://github.com/Waleed-Ilyas/solpay) â€” merchant payment flow built around Solana Pay UX, confirmation patterns, and checkout flow design
 
 ## Current focus
 
-- building polished product interfaces that feel premium and production-aware
-- shipping full-stack features from schema and API design to deployed frontend experience
-- extending Solana work with realistic devnet flows, wallet UX, and clear product thinking
+- building premium-feeling interfaces with product discipline and practical engineering tradeoffs
+- shipping end-to-end features from backend logic and data flow to frontend experience and deployment thinking
+- extending Solana work with realistic devnet patterns, transaction-aware UX, and clear product rationale
 
 ## Open to
 
