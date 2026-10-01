@@ -1,29 +1,53 @@
-<p align="center">
-  <img src="https://i.ibb.co/K2CnDMr/White-Minimalist-Data-Analyst-Linked-In-Background-Photo-2.png" alt="MasterHead" width="100%" />
-</p>
-<h1 align="center">Hi üëã, I'm Waleed Ilyas</h1>
-<h3 align="center">A passionate Data Analyst and Visualization enthusiast from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Waleed Ilyas
 
+Full Stack Engineer ï MERN ï Next.js ï Solana
 
-- üî≠ I‚Äôm currently working on **Analysis of Library Management System using SQL**
+I build dependable web products and Solana experiences that feel polished, product-minded, and easy to trust.
 
-- üå± I‚Äôm currently learning **Advanced Power BI techniques, data visualization strategies, and SQL optimization.**
+- 3+ years delivering full-stack features across React, Node.js, Express, MongoDB, and Next.js
+- Comfortable shipping APIs, database design, UI flows, auth, payments, and deployment-ready product work
+- Experienced with Solana devnet flows, wallet UX, token logic, and transaction-aware interfaces
+- Focused on clarity, performance, and engineering quality without over-engineering the stack
 
-- üëØ I‚Äôm looking to collaborate on **Football World Cup Analysis using Power BI**
+## Tech stack
 
-- ü§ù I‚Äôm looking for help with **Covid-19 Analysis using SQL**
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-- üí¨ Ask me about **Data Analysis, SQL, Power BI, Excel, and Data Visualization**
+## Featured projects
 
-- üì´ How to reach me **waleedilyas99@gmail.com**
+These are the six strongest repos to pin for a recruiter-facing GitHub profile:
 
-- üìÑ Know about my experiences 
-[Resume](https://drive.google.com/file/d/1rJLCSPZOj4zoM79OKKkf0KNn_s5RGTMY/view?usp=sharing)
+1. [SolScope](https://github.com/Waleed-Ilyas/solscope) ó Solana wallet analytics dashboard with portfolio insights and decoded activity
+2. [Forma3D](https://github.com/Waleed-Ilyas/forma3d) ó 3D configurator with live pricing, shareable URLs, and polished UI interaction
+3. [TokenForge](https://github.com/Waleed-Ilyas/tokenforge) ó devnet token launcher for SPL and Token-2022 flows
+4. [NexaCart](https://github.com/Waleed-Ilyas/nexacart) ó e-commerce app with Stripe test checkout, catalog logic, and admin tooling
+5. [TaskForge](https://github.com/Waleed-Ilyas/taskforge) ó real-time team kanban with comments, activity tracking, and board workflows
+6. [SolPay](https://github.com/Waleed-Ilyas/solpay) ó merchant payment flow with checkout UX and payment verification patterns
 
-- ‚ö° Fun fact **I can turn complex data problems into simple visual stories and insights!**
+## Current focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/waleed-ilyas-664839213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
-</p>
+- building polished product interfaces that feel premium and production-aware
+- shipping full-stack features from schema and API design to deployed frontend experience
+- extending Solana work with realistic devnet flows, wallet UX, and clear product thinking
+
+## Open to
+
+- full-stack product roles
+- remote engineering opportunities
+- teams building modern web apps and blockchain experiences
+
+## Contact
+
+- Email: waleedilyas99@gmail.com
+- WhatsApp: +92 317 6063654
+- LinkedIn: https://www.linkedin.com/in/waleed-ilyas-664839213
+- GitHub: https://github.com/Waleed-Ilyas
+
+> Honest, build-tested, and ready to ship.
